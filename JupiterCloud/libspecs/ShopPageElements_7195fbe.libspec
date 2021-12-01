@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keywordspec name="ShopPageElements" type="library" format="ROBOT" generated="20210626 11:47:14">
+<version></version>
+<scope>global</scope>
+<namedargs>yes</namedargs>
+<doc>Documentation for test library ``ShopPageElements``.</doc>
+<kw name="All Products Locator">
+<arguments>
+</arguments>
+<doc></doc>
+<tags>
+</tags>
+</kw>
+<kw name="Buy Locator">
+<arguments>
+<arg>id</arg>
+</arguments>
+<doc></doc>
+<tags>
+</tags>
+</kw>
+<kw name="Product Name Locator">
+<arguments>
+<arg>id</arg>
+</arguments>
+<doc></doc>
+<tags>
+</tags>
+</kw>
+</keywordspec>
