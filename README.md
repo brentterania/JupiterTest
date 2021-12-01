@@ -41,4 +41,4 @@
        
    If the project is in the midst of development and the team plans to adopt BDD aproach from their existing framework, the team should be prepared to consider the amount of time and effort on redisignin test scripts.
    
-   Short term projects can use TDD or other approach instead of using BDD, as it will just eat the time planned for the project for designing the BDD framework.
+   Non-functional test cases are not applicable for BDD approach. Short term projects can use TDD or other approach instead of using BDD, as it will just eat the time planned for the project for designing the BDD framework.
